@@ -65,7 +65,7 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 This project was inspired by the `wc` command in Unix-like systems.
 
-![wcdim](https://github.com/dimiporf/ccwc/assets/74142959/fa0b2737-ec4a-4121-aa31-753e9a019558)
+
 
 
 
