@@ -11,7 +11,7 @@ namespace WordCountApp
             // Ensure there are at least one or two arguments
             if (args.Length < 1 || args.Length > 2)
             {
-                Console.WriteLine("Usage: dimwc [-c | -l | -w | -m] <file>");
+                Console.WriteLine("Usage: dotnet run -- [-c | -l | -w | -m] <path_to_file>");
                 return;
             }
 
