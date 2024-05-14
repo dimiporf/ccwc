@@ -48,8 +48,6 @@ dotnet run -- path/to/your/file.txt
 Replace <path_to_file> with the path to the text file you want to analyze.
 
 
-### Step 4: Contributing and Author Information
-
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests.
