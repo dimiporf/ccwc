@@ -8,8 +8,7 @@ The name ccwc stands for Coding Challenges Word Count, inspired by https://codin
 1. Ensure you have [.NET SDK](https://dotnet.microsoft.com/download) installed on your machine.
 
 2. Clone the repository:
-
-   ```sh
+   
    git clone https://github.com/yourusername/WordCountApp.git
    cd WordCountApp
 
