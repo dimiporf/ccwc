@@ -20,12 +20,12 @@ The name ccwc stands for Coding Challenges Word Count, inspired by https://codin
 
 Provide clear usage instructions and examples for running `WordCountApp` with different command-line options.
 
-```markdown
+
 ## Usage
 
 Run `WordCountApp` using the `dotnet run` command with the following syntax:
 
-```sh
+
 dotnet run -- [-c | -l | -w | -m] <path_to_file>
 
 Examples:
